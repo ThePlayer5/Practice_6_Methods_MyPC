@@ -70,7 +70,7 @@ namespace Practice_6_Methods
             //ReverseWords(sentence);
 
             // Задание 10
-            //Console.Write("Введите число: ");
+            Console.Write("Введите число: ");
             //int n = Convert.ToInt32(Console.ReadLine());
             //Console.WriteLine($"Таблица умножения числа {n}:\n{MultiplicationTable(n)}");
 
